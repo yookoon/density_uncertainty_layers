@@ -4,7 +4,7 @@ This repository contains the PyTorch implementation for the paper "Density Uncer
 ## Requirements
 The code is implemented using PyTorch 1.12.1. 
 
-Install the required packages
+To install the required packages (other than PyTorch)
 ```
 pip install -r requirements.txt
 ```
